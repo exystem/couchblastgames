@@ -1,0 +1,33 @@
+
+<Game id="de.exystem.wingsandcannons">
+  
+  <!-- General Information -->
+  <Name>Wings & Cannons</Name>
+  <!-- Icon should be 512 x 512 pixels -->
+  <Icon>https://.....png</Icon>
+  
+  <Genre>Action</Genre>
+  <Genre>Simulation</Genre>
+  
+  <!-- Publisher Information / Legal notice -->
+  <Publisher>Exystem</Publisher>
+  <Address>Exystem UG (haftungsbeschränkt), DE-85649 Brunnthal, Germany</Address>
+  <Support>support@exystem.de</Support>
+  <Website>https://exystem.eu</Website>
+  
+  <!-- License (default or URL to .txt file) -->
+  <License>default</License>
+  
+  <!-- Game packages (URL to .zip file) -->
+  <!-- Package node must have at least the following attributes: platform, executable, version -->
+  <Package platform="linux" executable="ExampleGame.x86_64" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://...zip</Package>
+  <Package platform="windows" executable="ExampleGame.exe" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://...zip</Package>
+  
+  <!-- Screenshots -->
+  <Screenshot>https://.....jpg</Screenshot>
+  <Screenshot>https://.....jpg</Screenshot>
+  
+  <!-- Description text -->
+  <Description>This is an example.</Description>
+  <Description>It's just for explanation... :)</Description>
+</Game>
