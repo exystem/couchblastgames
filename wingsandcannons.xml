@@ -2,7 +2,7 @@
 <Game id="de.exystem.wingsandcannons">
   
   <!-- General Information -->
-  <Name>Wings & Cannons</Name>
+  <Name>Wings &amp; Cannons</Name>
   <!-- Icon should be 512 x 512 pixels -->
   <Icon>https://exystem.eu/wp-content/uploads/WingAndCannons_Icon_512.png</Icon>
   
