@@ -1,0 +1,30 @@
+
+<Game id="de.exystem.zombies">
+  
+  <!-- General Information -->
+  <Name>Zombies</Name>
+  <!-- Icon should be 512 x 512 pixels -->
+  <Icon>https://exystem.eu/wp-content/uploads/TestZombies_icon.png</Icon>
+  
+  <Genre>Action</Genre>
+  <Genre>Adventure</Genre>
+  
+  <!-- Publisher Information / Legal notice -->
+  <Publisher>Exystem</Publisher>
+  <Address>Exystem UG (haftungsbeschränkt), DE-85649 Brunnthal, Germany</Address>
+  <Support>support@exystem.de</Support>
+  <Website>https://exystem.eu</Website>
+  
+  <!-- License (default or URL to .txt file) -->
+  <License>default</License>
+  
+  <!-- Game packages (URL to .zip file) -->
+  <!-- Package node must have at least the following attributes: platform, executable, version -->
+  <Package platform="linux" executable="Zombies.x86_64" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_linux.zip</Package>
+  <Package platform="windows" executable="CouchBlast Zombie Apokalypse.exe" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_windows.zip</Package>
+  
+  <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot1.jpg</Screenshot>
+  <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot2.jpg</Screenshot>
+  <Description>This is a test game.</Description>
+  <Description>It's about zombies... :)</Description>
+</Game>
