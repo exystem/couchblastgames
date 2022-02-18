@@ -1,0 +1,17 @@
+<CouchBlast>
+  
+  <Packages>
+    <Windows version="1.0">https://......zip</Windows>
+    <Linux version="1.0">https://......zip</Linux>
+    <Mac version="1.0">https://......zip</Mac>
+    <Console version="1.0">https://......zip</Console>
+  </Packages>
+  
+  <Ads>
+    <Ad>
+      <Image>https://......jpg<Image>
+      <Link>https://...<Link>
+    </Ad>
+  <Ads>
+    
+</CouchBlast>
