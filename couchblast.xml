@@ -7,11 +7,11 @@
     <Console version="1.0">https://......zip</Console>
   </Packages>
   
-  <Ads>
-    <Ad>
-      <Image>https://......jpg<Image>
-      <Link>https://...<Link>
-    </Ad>
-  <Ads>
+  <Banners>
+    <Banner>
+      <Image>https://......jpg</Image>
+      <Link>https://...</Link>
+    </Banner>
+  </Banners>
     
 </CouchBlast>
