@@ -1,33 +1,22 @@
-
 <Game id="de.exystem.wingsandcannons">
-  
-  <!-- General Information -->
-  <Name>Wings &amp; Cannons</Name>
-  <!-- Icon should be 512 x 512 pixels -->
-  <Icon>https://exystem.eu/wp-content/uploads/WingAndCannons_Icon_512.png</Icon>
-  
-  <Genre>Action</Genre>
-  <Genre>Simulation</Genre>
-  
-  <!-- Publisher Information / Legal notice -->
-  <Publisher>Exystem</Publisher>
-  <Address>Exystem UG (haftungsbeschränkt), DE-85649 Brunnthal, Germany</Address>
-  <Support>support@exystem.de</Support>
-  <Website>https://exystem.eu</Website>
-  
-  <!-- License (default or URL to .txt file) -->
-  <License>default</License>
-  
-  <!-- Game packages (URL to .zip file) -->
-  <!-- Package node must have at least the following attributes: platform, executable, version -->
-  <Package platform="linux" executable="ExampleGame.x86_64" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://...zip</Package>
-  <Package platform="windows" executable="ExampleGame.exe" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://...zip</Package>
-  
-  <!-- Screenshots -->
-  <Screenshot>https://.....jpg</Screenshot>
-  <Screenshot>https://.....jpg</Screenshot>
-  
-  <!-- Description text -->
-  <Description>This is an example.</Description>
-  <Description>It's just for explanation... :)</Description>
+    <!-- General Information -->
+    <Name>Wings & Cannons</Name>
+    <Icon>https://exystem.eu/wp-content/uploads/WingAndCannons_Icon_512.png</Icon>
+    <Genre>Action</Genre>
+    <Genre>Simulation</Genre>
+    <Players>1-4</Players>
+    <RequiredHardware></RequiredHardware>
+    <!-- Legal Information -->
+    <Publisher>Exystem</Publisher>
+    <Address>Exystem UG (haftungsbeschränkt), DE-85649 Brunnthal, Germany</Address>
+    <Support>support@exystem.de</Support>
+    <Website>https://exystem.eu</Website>
+    <License>default</License>
+    <!-- Presentation -->
+    <Screenshot>https://exystem.eu/wp-content/uploads/2019/12/cropped-earth_background_01-1.jpg</Screenshot>
+    <Description>Fight in local mutliplayer battles (splitscreen) with up to 4 players.
+Add NPCs for larger battles.</Description>
+    <!-- Packages -->
+    <Package platform="linux" executable="WingsAndCannons.x86_64" version="1.0" ram="any" vram="any" cpu="any" cores="any" disc="0.5gb">https://exystem.eu/wp-content/uploads/WingsAndCannons_linux.zip</Package>
+    <Package platform="windows" executable="WingsAndCannons.exe" version="1.0" ram="any" vram="any" cpu="any" cores="any" disc="0.5gb">https://exystem.eu/wp-content/uploads/WingsAndCannons_win.zip</Package>
 </Game>
