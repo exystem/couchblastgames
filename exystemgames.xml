@@ -1,0 +1,17 @@
+<List title="Exystem Games">
+  
+  <Game id="de.exystem.testzombies" name="Test Zombies" publisher="Exystem" genre="Action|Adventure" platform="windows|linux">
+    <!-- Icon should be 128 x 128 pixels (png or jpg) -->
+    <Icon>https://exystem.eu/wp-content/uploads/TestZombies_icon.png</Icon>
+    <!-- URL to the game xml -->
+    <Manifest>https://raw.githubusercontent.com/exystem/couchblastgames/main/zombies.xml</Manifest>
+  </Game>
+  
+  <Game id="de.exystem.wingsandcannons" name="Wing &amp; Cannons" publisher="Exystem" genre="Action|Simulation" platform="windows|linux">
+    <!-- Icon should be 128 x 128 pixels (png or jpg) -->
+    <Icon>https://exystem.eu/wp-content/uploads/WingAndCannons_Icon_128.png</Icon>
+    <!-- URL to the game xml -->
+    <Manifest>https://raw.githubusercontent.com/exystem/couchblastgames/main/wingsandcannons.xml</Manifest>
+  </Game>
+  
+</List>
