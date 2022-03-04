@@ -8,9 +8,9 @@
   </Packages>
   
   <Banners>
-    <Banner>
-      <Image>https://......jpg</Image>
-      <Link>https://...</Link>
+    <Banner id="exampleAd">
+      <Image>https://exystem.eu/wp-content/uploads/2019/12/cropped-earth_background_01.jpg</Image>
+      <TargetURL>https://exystem.eu/</TargetURL>
     </Banner>
   </Banners>
     
